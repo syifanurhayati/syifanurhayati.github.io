@@ -9,13 +9,17 @@ redirect_from:
 ---
 
 
-I'm currently a lecturer at Faculty of Computer Science, Universitas Indonesia. I received my Master's in Computer Science from Universitas Indonesia, advised by Dr.Eng. Laksmita Rahadianti and Prasandhya Astagiri Yusuf, Ph.D.
+I'm currently a lecturer at Faculty of Computer Science, Universitas Indonesia. I received my Master's in Computer Science from Universitas Indonesia, advised by [Dr.Eng. Laksmita Rahadianti](https://mlcv.cs.ui.ac.id/members/laksmita-rahadianti.html) and [Prasandhya Astagiri Yusuf, Ph.D.](https://scholar.ui.ac.id/en/persons/prasandhya-astagiri-yusuf)
+
+My research interests span a wide range of AI-related domains, including machine learning, information retrieval, and computer vision. My undergraduate thesis explored semantic similarity in healthcare-related questions using retrieval-based techniques, while my master’s work focused on tuberculosis detection in chest X-ray images using texture analysis — reflecting a continuing interest in the application of AI for healthcare.
+
+In addition to her technical research, I have taught Human-Computer Interaction (HCI) for the past five semesters, which has deepened her interest in Human-Centered AI — particularly how intelligent systems can be designed to be usable, transparent, and aligned with human needs. She is now exploring the intersection of AI and HCI, with a focus on building systems that are not only powerful but also interpretable, responsible, and supportive of human decision-making.
+
+My long-term research goal is to contribute to the development of AI systems that are explainable and ethically grounded, especially in high-stakes domains such as healthcare and education.
 
 Beside academic life, I enjoy coaching healthy lifestyle, going to the gym, swimming, and playing badminton ^^
 
-
-My research goal is to enhance machines’ cognitive capabilities through computational methods, focusing on social reasoning (e.g., theory of mind), formal reasoning (e.g., knowledge-intensive domains), and interactive agents guided by these abilities. To achieve this, I explore three key directions: optimizing inference-time compute, synthesizing large-scale data, and evaluating cognitive behaviors. Additionally, I am interested in taking an interdisciplinary approach to my research, bridging AI and cognitive science. In particular, I like to distill insights from human development and cognition into models for reasoning.
-
+<!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -56,3 +60,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
