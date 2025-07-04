@@ -13,7 +13,7 @@ I'm currently a lecturer at Faculty of Computer Science, Universitas Indonesia. 
 
 My research interests span a wide range of AI-related domains, including machine learning, information retrieval, and computer vision. My undergraduate thesis explored semantic similarity in healthcare-related questions using retrieval-based techniques, while my master’s work focused on tuberculosis detection in chest X-ray images using texture analysis — reflecting a continuing interest in the application of AI for healthcare.
 
-In addition to her technical research, I have taught Human-Computer Interaction (HCI) for the past five semesters, which has deepened her interest in Human-Centered AI — particularly how intelligent systems can be designed to be usable, transparent, and aligned with human needs. She is now exploring the intersection of AI and HCI, with a focus on building systems that are not only powerful but also interpretable, responsible, and supportive of human decision-making.
+In addition to my technical research, I have taught Human-Computer Interaction (HCI) for the past five semesters, which has deepened her interest in Human-Centered AI — particularly how intelligent systems can be designed to be usable, transparent, and aligned with human needs. I am now exploring the intersection of AI and HCI, with a focus on building systems that are not only powerful but also interpretable, responsible, and supportive of human decision-making.
 
 My long-term research goal is to contribute to the development of AI systems that are explainable and ethically grounded, especially in high-stakes domains such as healthcare and education.
 
