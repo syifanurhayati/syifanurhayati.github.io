@@ -14,7 +14,7 @@ Education
 * B.S. in Computer Science, Universitas Indonesia, 2019
 * M.S. in Computer Science, Universitas Indonesia, 2021
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -24,7 +24,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 <!-- Skills
 ======
@@ -47,6 +47,7 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -55,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Program Committee: International Conference on Advanced Computer Science and Information Systems (ICACSIS) 2022
