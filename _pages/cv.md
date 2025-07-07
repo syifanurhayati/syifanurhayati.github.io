@@ -63,7 +63,7 @@ Honor and Awards
 ======
 * Awardee of [Tokopedia-UI AI Center of Excellence](https://tokopedia-ai.cs.ui.ac.id/) (Full Scholarship for Master's Degree 2019-2021)
 
-Advising (Undergraduate Students)
+Supervising (Undergraduate Students)
 ======
 
 * Development of Image Quality Assessment Metrics with Perceptual Approach (co-supervised with [Dr.Eng. Laksmita Rahadianti](https://scholar.google.co.id/citations?user=zXG3mDwAAAAJ&hl=id)) - [Carlene Annabel](https://www.linkedin.com/in/carlene-annabel-48b9241b7), [Catherine Angel Robin](https://id.linkedin.com/in/catherine-angel-robin-937197218), [Natania Deandra](https://id.linkedin.com/in/nataniadeandra) (Spring 2025)
@@ -82,6 +82,6 @@ Advising (Undergraduate Students)
 
 * News Generative Language Model for Automatic Indonesian News Generation System (co-supervised with [Adila Alfa Krinadhi, Ph.D](https://scholar.google.com/citations?user=m7PqgfkAAAAJ&hl=en)) - [Ramdhan Firdaus Amelia](https://id.linkedin.com/in/ramdhan-firdaus-amelia), [Rizky Juniastiar](https://id.linkedin.com/in/rizkyjuniastiar) (Fall 2023)
 
-* Usability and Interface Design Evaluation for Travelio Application with User-Centered Design Approach (co-supervised with [Prof. Harry Budi Santoso, Ph.D](https://scholar.google.com/citations?user=9AHf-3YAAAAJ&hl=en)) - [Fasya Prandari Shafira](https://id.linkedin.com/in/fasya-prandari), [Ario Nugraha Ramadhanu(https://id.linkedin.com/in/ario-nugraha-ramadhanu)], [Alya Annissa Diyantari](https://id.linkedin.com/in/alyaannissa) (Fall 2023)
+* Usability and Interface Design Evaluation for Travelio Application with User-Centered Design Approach (co-supervised with [Prof. Harry Budi Santoso, Ph.D](https://scholar.google.com/citations?user=9AHf-3YAAAAJ&hl=en)) - [Fasya Prandari Shafira](https://id.linkedin.com/in/fasya-prandari), [Ario Nugraha Ramadhanu](https://id.linkedin.com/in/ario-nugraha-ramadhanu), [Alya Annissa Diyantari](https://id.linkedin.com/in/alyaannissa) (Fall 2023)
 
 * Usability Evaluation and Interface Redesign of McDelivery Indonesia Application (co-supervised with [Dr. Panca Hadi Putra](https://scholar.google.com/citations?user=y5GJho0AAAAJ&hl=en)) - Aynun Nissa Setiawan, [Shafira Azzahra](https://id.linkedin.com/in/shafira-azzahra-), [Yolanda Emanuella Sutanto](https://id.linkedin.com/in/yolandaesutanto) (Spring 2023)
