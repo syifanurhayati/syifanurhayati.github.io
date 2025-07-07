@@ -66,23 +66,22 @@ Honor and Awards
 Advising (Undergraduate Students)
 ======
 
-* Development of Image Quality Assessment Metrics with Perceptual Approach (co-supervised Dr.Eng. Laksmita Rahadianti) - [Carlene Annabel](https://www.linkedin.com/in/carlene-annabel-48b9241b7), [Catherine Angel Robin](https://id.linkedin.com/in/catherine-angel-robin-937197218), [Natania Deandra](https://id.linkedin.com/in/nataniadeandra)
+* Development of Image Quality Assessment Metrics with Perceptual Approach (co-supervised with [Dr.Eng. Laksmita Rahadianti](https://scholar.google.co.id/citations?user=zXG3mDwAAAAJ&hl=id)) - [Carlene Annabel](https://www.linkedin.com/in/carlene-annabel-48b9241b7), [Catherine Angel Robin](https://id.linkedin.com/in/catherine-angel-robin-937197218), [Natania Deandra](https://id.linkedin.com/in/nataniadeandra) (Spring 2025)
 
-* Robustness Test of YOLOv11 for Object Detection in Non-Ideal Conditions (co-supervised Dr.Eng. Laksmita Rahadianti)- [Sania Rizqi Maharani](https://id.linkedin.com/in/saniamhrn)
+* Robustness Test of YOLOv11 for Object Detection in Non-Ideal Conditions (co-supervised with [Dr.Eng. Laksmita Rahadianti](https://scholar.google.co.id/citations?user=zXG3mDwAAAAJ&hl=id))- [Sania Rizqi Maharani](https://id.linkedin.com/in/saniamhrn) (Spring 2025)
 
-* Hyperspectral Ink Classification with Ink Mismatch Detection-CNN and Multi-Layer Perceptron (co-supervised Dr.Eng. Laksmita Rahadianti) - [Sasha Nabila Fortuna](https://id.linkedin.com/in/sasha-nabila-fortuna)
+* Hyperspectral Ink Classification with Ink Mismatch Detection-CNN and Multi-Layer Perceptron (co-supervised with [Dr.Eng. Laksmita Rahadianti](https://scholar.google.co.id/citations?user=zXG3mDwAAAAJ&hl=id)) - [Sasha Nabila Fortuna](https://id.linkedin.com/in/sasha-nabila-fortuna) (Fall 2024)
 
-* Automatic Identification of Duplicate Questions in Indonesian Consumer Health Forums Using Learning-to-Rank (co-supervised Alfan Farizki Wicaksono, Ph.D) - [Febi Imanuela](https://id.linkedin.com/in/febi-imanuela)
+* Automatic Identification of Duplicate Questions in Indonesian Consumer Health Forums Using Learning-to-Rank (co-supervised with [Alfan Farizki Wicaksono, Ph.D](https://scholar.google.com/citations?user=MaaLUm0AAAAJ&hl=id)) - [Febi Imanuela](https://id.linkedin.com/in/febi-imanuela) (Spring 2024)
 
-* Duplicate Question Retrieval in Indonesian Consumer Health Forum with Rank Fusion (co-supervised Alfan Farizki Wicaksono, Ph.D)- [Ilhan Firka Najia](https://id.linkedin.com/in/ilhanfirka)
+* Duplicate Question Retrieval in Indonesian Consumer Health Forum with Rank Fusion (co-supervised with [Alfan Farizki Wicaksono, Ph.D](https://scholar.google.com/citations?user=MaaLUm0AAAAJ&hl=id))- [Ilhan Firka Najia](https://id.linkedin.com/in/ilhanfirka) (Spring 2024)
 
-* Duplicate Question Detection in Indonesian Consumer Health Forums Using Term Expansion (co-supervised Alfan Farizki Wicaksono, Ph.D) - Heidi Renata Halim
+* Duplicate Question Detection in Indonesian Consumer Health Forums Using Term Expansion (co-supervised with [Alfan Farizki Wicaksono, Ph.D](https://scholar.google.com/citations?user=MaaLUm0AAAAJ&hl=id)) - Heidi Renata Halim (Spring 2024)
 
-* Neural Re-Rankers to Identify Duplicate Questions in Indonesian Consumer Health Forums (co-supervised Alfan Farizki Wicaksono, Ph.D)
-[Ezra Pasha Ramadhansyah](https://id.linkedin.com/in/ezra-pasha-b3734a1b9)
+* Neural Re-Rankers to Identify Duplicate Questions in Indonesian Consumer Health Forums (co-supervised with [Alfan Farizki Wicaksono, Ph.D](https://scholar.google.com/citations?user=MaaLUm0AAAAJ&hl=id)) - [Ezra Pasha Ramadhansyah](https://id.linkedin.com/in/ezra-pasha-b3734a1b9) (Spring 2024)
 
-* News Generative Language Model for Automatic Indonesian News Generation System (co-supervised Adila Alfa Krinadhi, Ph.D) - [Ramdhan Firdaus Amelia](https://id.linkedin.com/in/ramdhan-firdaus-amelia), [Rizky Juniastiar](https://id.linkedin.com/in/rizkyjuniastiar)
+* News Generative Language Model for Automatic Indonesian News Generation System (co-supervised with [Adila Alfa Krinadhi, Ph.D](https://scholar.google.com/citations?user=m7PqgfkAAAAJ&hl=en)) - [Ramdhan Firdaus Amelia](https://id.linkedin.com/in/ramdhan-firdaus-amelia), [Rizky Juniastiar](https://id.linkedin.com/in/rizkyjuniastiar) (Fall 2023)
 
-* Usability and Interface Design Evaluation for Travelio Application with User-Centered Design Approach (co-supervised Prof. Harry Budi Santoso, Ph.D) - Fasya Prandari Shafira, Ario Nugraha Ramadhanu, Alya Annissa Diyantari
+* Usability and Interface Design Evaluation for Travelio Application with User-Centered Design Approach (co-supervised with [Prof. Harry Budi Santoso, Ph.D](https://scholar.google.com/citations?user=9AHf-3YAAAAJ&hl=en)) - [Fasya Prandari Shafira](https://id.linkedin.com/in/fasya-prandari), [Ario Nugraha Ramadhanu(https://id.linkedin.com/in/ario-nugraha-ramadhanu)], [Alya Annissa Diyantari](https://id.linkedin.com/in/alyaannissa) (Fall 2023)
 
-* Usability Evaluation and Interface Redesign of McDelivery Indonesia Application (co-supervised Dr. Panca Hadi Putra) - Aynun Nissa Setiawan, Shafira Azzahra, Yolanda Emanuella Sutanto
+* Usability Evaluation and Interface Redesign of McDelivery Indonesia Application (co-supervised with [Dr. Panca Hadi Putra](https://scholar.google.com/citations?user=y5GJho0AAAAJ&hl=en)) - Aynun Nissa Setiawan, [Shafira Azzahra](https://id.linkedin.com/in/shafira-azzahra-), [Yolanda Emanuella Sutanto](https://id.linkedin.com/in/yolandaesutanto) (Spring 2023)
