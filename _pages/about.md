@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Syifa, currently a lecturer at [the Faculty of Computer Science, Universitas Indonesia](https://cs.ui.ac.id/). I earned both my Bachelor’s and Master’s degrees in Computer Science from Universitas Indonesia.
+I’m currently a lecturer at [the Faculty of Computer Science, Universitas Indonesia](https://cs.ui.ac.id/). I earned both my Bachelor’s and Master’s degrees in Computer Science from Universitas Indonesia.
 
 My research interests span a wide range of AI-related domains, including machine learning, information retrieval, and computer vision. I have hands-on experience in both text processing and image analysis, which has led to a growing interest in multimodal AI — combining different data modalities to build more comprehensive and context-aware systems.
 
@@ -24,7 +24,7 @@ In addition to my technical research, I have taught Human-Computer Interaction (
 
 <!-- My long-term research goal is to contribute to the development of AI systems that are explainable and ethically grounded, especially in high-stakes domains such as healthcare and education. -->
 
-Beside academic life, I enjoy coaching healthy lifestyle, going to the gym, swimming, and playing badminton ^^
+<!-- Beside academic life, I enjoy coaching healthy lifestyle, going to the gym, swimming, and playing badminton ^^ -->
 
 Contact Details
 ======
